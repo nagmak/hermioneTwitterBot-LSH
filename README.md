@@ -1,6 +1,6 @@
-# hermioneTwitterBot-LSH
+## Hermione Granger Twitter Bot
 
-## A few important things to get everything started:
+### A few important things to get everything started:
 
 1. Create a new Twitter account and a new GoodReads account if you don't have them
 2. Enter the developer tools section for both sites
