@@ -51,3 +51,5 @@ ENV/
 # other specific files
 secrets.txt
 goodreads.txt
+.DS_Store
+MANIFEST.in
